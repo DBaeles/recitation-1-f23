@@ -7,6 +7,7 @@ import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
 
 public class ExpressionEvaluatorTest {
+    //comment
 
     private CalculatorHelper calculatorHelperMock;
     private ExpressionEvaluator expressionEvaluator;
